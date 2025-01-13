@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yadav_abhi123" target="blank"><img src="https://img.shields.io/twitter/follow/yadav_abhi123?logo=twitter&style=for-the-badge" alt="yadav_abhi123" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Node Js**
 
 - 💬 Ask me about **HTML,CSS,TailwindCSS ,JavaScript , ReactJS**
 
