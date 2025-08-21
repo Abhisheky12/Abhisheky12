@@ -1,13 +1,13 @@
 <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQwNzc0NTIsIm5iZiI6MTczNDA3NzE1MiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjEzVDA4MDU1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmZDExNTQ2YjAyYjAwMGI5Y2UzN2VmYjdkNGQ4NTVmZTQyMGYxMzlkZWQ0NDUwNzhmOWRhMzAzM2QyOWQ4NjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cwTwMzA0i9wG4mmAJmnCG0WO7PytVhN5SN6LBzpEraE">
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN developer from India</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheky12&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheky12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yadav_abhi123" target="blank"><img src="https://img.shields.io/twitter/follow/yadav_abhi123?logo=twitter&style=for-the-badge" alt="yadav_abhi123" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **GenAI**
 
 - 💬 Ask me about **HTML,CSS,TailwindCSS ,JavaScript , ReactJS**
 
