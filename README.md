@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GenAI**
 
-- 💬 Ask me about **HTML,CSS,TailwindCSS ,JavaScript , ReactJS**
+- 💬 Ask me about **HTML,CSS,TailwindCSS ,JavaScript , ReactJS, NodeJs, ExpressJs , MongoDb**
 
 - 📫 How to reach me **a.yadav7088@gmail.com**
 
